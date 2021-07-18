@@ -1,0 +1,333 @@
+div.content--6H8et {
+    background-color: #D43232;
+    color: #FFFFFF;
+}
+
+div.avatar--Z2lyL8K.moderator--24bqCT.presenter--Z1INqI5.listenOnly--1qW98O.voice--2oPUk4 {
+    background-color: #FF4646;
+    font-family: IRANSans;
+    font-weight: 1000;
+}
+
+div.centerWithActions--Z3YTGj.center--ZyfFaC {
+    background-color: #C43535;
+}
+
+div.center--2pV1iJ {
+    background-color: #8a132300;
+    padding-bottom: 5px;
+    border-bottom: rgb(255, 51, 85) 4px solid;
+}
+
+div.presentationArea--1VFCwU {
+    background-color: #C43535;
+}
+
+section.actionsbar--Z1ant6U {
+    background-color: #8A2222;
+    border: black;
+    border-top: 3px black solid;
+}
+
+div.navbar--Z2hKYyK {
+    background-color: #631818;
+    height: 30px;
+    height: 300%;
+}
+
+span.button--Z2dosza.md--Q7ug4.primary--1IbqAO.circle--Z2c8umk {
+    background-color: #F32E2E;
+}
+
+span.button--Z2dosza.lg--Q7ufB.primary--1IbqAO.circle--Z2c8umk {
+    background-color: #F32E2E;
+    box-shadow: none;
+}
+
+button.button--Z2dosza.sm--Q7ujg.primary--1IbqAO.button--yKJ5d {
+    background-color: #F32E2E;
+}
+
+div.avatar--Z2lyL8K.moderator--24bqCT.avatar--1EFVoI {
+    background-color: #FF4646;
+    font-family: IRANSans;
+    font-weight: 1000;
+}
+
+div div span {
+    font-family: IRANSans;
+    font-style: normal;
+    line-height: 17px;
+}
+
+p.message--Z2n2nXu {
+    font-family: IRANSans;
+    margin: 0;
+    margin-top: 2px;
+    font-size: 14px;
+}
+
+textarea.input--2wilPX {
+    font-family: IRANSans;
+    border: none;
+    background-color: #EDEDED;
+    font-weight: 100;
+    color: #000000;
+    font-style: normal;
+}
+
+div.container--ZmRztk {
+    background-color: #631818;
+}
+
+p.systemMessage--ZYspJQ {
+    display: none;
+}
+
+h1.presentationTitle--1LT79g {
+    font-family: IRANSans;
+    font-weight: 1000;
+    font-size: 30px;
+    color: rgb(255, 70, 94);
+}
+
+h2.smallTitle--2wz4kP {
+    display: flex;
+    font-family: IRANSans;
+    border: solid rgb(207, 207, 207);
+    margin-right: 6px;
+    border-radius: 10px;
+    padding: 5px;
+    color: rgb(255, 59, 59);
+    font-size: 15px;
+    justify-content: center;
+}
+
+div span span {
+    font-weight: 800;
+}
+
+button.button--Z2dosza.md--Q7ug4.primary--1IbqAO.btn--dDLST {
+    color: red;
+}
+
+div.avatar--Z2lyL8K.moderator--24bqCT.presenter--Z1INqI5.noVoice--1sLVsL {
+    background-color: #FF4646;
+    font-family: IRANSans;
+    font-weight: 1000;
+}
+
+div time span {
+    display: none;
+}
+
+p a u {
+    font-family: IRANSans;
+    margin: 0;
+    font-size: 16px;
+    color: #FF4242
+}
+
+div.avatar--Z2lyL8K.moderator--24bqCT.presenter--Z1INqI5.voice--2oPUk4 {
+    background-color: #FF5C5C;
+}
+
+div.avatar--Z2lyL8K.listenOnly--1qW98O.voice--2oPUk4 {
+    background-color: #FF5F5F;
+}
+
+div.avatar--Z2lyL8K.avatar--1EFVoI {
+    background-color: #F74343;
+    font-family: IRANSans;
+}
+
+button.button--Z2dosza.sm--Q7ujg.primary--1IbqAO.talker--2eNUIW.mobileHide--2ok2AW {
+    height: 25px;
+    border: black solid 2px;
+    background-color: #FF4E4E
+}
+
+i.icon--2q1XXw.icon-bbb-unmute {
+    color: #FFFFFF;
+    color: black;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+button.button--Z2dosza.sm--Q7ujg.primary--1IbqAO.unreadButton--1Ar2w8 {
+    background-color: #F05353
+}
+
+i.icon--2q1XXw.icon-bbb-blank {
+    background-color: #F05353;
+}
+
+div.avatar--Z2lyL8K.muted--2og8uq.voice--2oPUk4 {
+    background-color: #FC4D3C;
+}
+
+#screenshareVideo {
+    margin: 520px;
+    height: 90%
+}
+
+span.singleTyper--Z1xQu0T {
+    /* display: none; */
+}
+
+div.avatar--Z2lyL8K.voice--2oPUk4 {
+    font-family: IRANSans;
+    font-size: 13px;
+    color: #FF4242
+}
+
+div.info--1S2URv.spacer--2t7k4N {
+    /* display: none; */
+    height: 10px;
+}
+
+div.wrapper--ZhSWmd {
+    margin: 5px;
+}
+
+i.icon--2q1XXw.icon-bbb-listen {
+    color: black
+}
+
+i.icon--2q1XXw.icon-bbb-video_off {
+    color: black;
+}
+
+span.button--Z2dosza.lg--Q7ufB.default--Z19H5du.ghost--Z136aiN.circle--Z2c8umk {
+    border: black;
+    box-shadow: none;
+}
+
+i.icon--2q1XXw.icon-bbb-audio_off {
+    color: black;
+}
+
+i.icon--2q1XXw.icon-bbb-audio_on {
+    color: black;
+}
+
+i.icon--2q1XXw.icon-bbb-mute {
+    color: black;
+}
+
+button.button--Z2dosza.md--Q7ug4.primary--1IbqAO {
+    background-color: #FF4C4C;
+}
+
+span.label--Z12LMR3 {
+    border: none;
+    font-size: 15px;
+    padding: 1px;
+    height: 400%;
+    color: black;
+}
+
+div.bottom--2oxmox {
+    display: flex;
+    justify-content: center;
+}
+
+div.avatar--Z2lyL8K.noVoice--1sLVsL {
+    background-color: #F14343;
+    font-family: IRANSans;
+}
+
+video.media--qsqlj {
+    border: solid none;
+    border-radius: 40px;
+}
+
+div.avatar--Z2lyL8K {
+    background-color: #FF4646;
+    font-family: IRANSans;
+    font-weight: 100;
+}
+
+i.icon--2q1XXw.icon-bbb-send {
+    color: black;
+}
+
+button.md--Q7ug4.buttonWrapper--x8uow.btn--Z25OApd.btnWithNotificationDot--10puCx {
+    /* display: none; */
+}
+
+div.unreadMessagesText--Z1Kohkl {
+    display: none;
+}
+
+span.offline--ZfDX9N {
+    /* display: none; */
+}
+
+span.userName--ZsKYfV.noMenu--Z1KsfN5 {
+    display: none;
+    justify-content: center;
+}
+
+video.media--qsqlj.cursorGrab--Z2fB4yK {
+    border: none;
+}
+
+div.center--ZyfFaC {
+    transform: scale(1.2);
+}
+
+select.select--ZuxQgB {
+    margin-bottom: 10px;
+}
+
+video.preview--25JmPP {
+    background-color: #D4D4D4;
+    border-radius: 60px;
+}
+
+div.ReactModal__Content.ReactModal__Content--after-open.modal--Z1mfLi.modal--lmEc2 {
+    border: solid white;
+    padding: 20px;
+    border-radius: 70px;
+}
+
+div.ReactModal__Content.ReactModal__Content--after-open.modal--1DxJyC.modal--lmEc2 {
+    border: solid white;
+    padding: 20px;
+    border-radius: 70px;
+}
+
+span.button--Z2dosza.jumbo--Z12Rgj4.success--Z6UU8x.circle--Z2c8umk {
+    background-color: #68F564;
+}
+
+span.button--Z2dosza.jumbo--Z12Rgj4.danger--Z2aBq0k.circle--Z2c8umk {
+    background-color: #FF6666;
+}
+
+header.navbar--Z2lHYbG {
+    background: #631818;
+}
+
+i.icon--2q1XXw.icon-bbb-user {
+    color: 000000;
+}
+
+button.button--Z2dosza.sm--Q7ujg.primary--1IbqAO.talker--2eNUIW.spoke--ZpD2nd {
+    height: 25px;
+    border: black solid 2px;
+    background-color: #FF4E4E
+}
+
+button.button--Z2dosza.sm--Q7ujg.primary--1IbqAO.talker--2eNUIW {
+    height: 25px;
+    border: black solid 2px;
+    background-color: #FF4E4E
+}
+
+i.icon--2q1XXw.icon-bbb-video {
+    color: black
+}

@@ -1,0 +1,487 @@
+@import url('http://www.fontonline.ir/css/IranNastaliq.css');
+div.content--6H8et {
+    background-color: #D43232;
+    color: #FFFFFF;
+}
+
+div.avatar--Z2lyL8K.moderator--24bqCT.presenter--Z1INqI5.listenOnly--1qW98O.voice--2oPUk4 {
+    background-color: #FF4646;
+    font-family: IRANSans;
+    font-weight: 1000;
+}
+
+div.centerWithActions--Z3YTGj.center--ZyfFaC {
+    background-color: #C43535;
+}
+
+div.center--2pV1iJ {
+    background-color: #8a132300;
+    padding-bottom: 5px;
+    border-bottom: #9b7819 4px solid;
+}
+
+div.presentationArea--1VFCwU {
+    background-color: #2b2a2a;
+}
+
+section.actionsbar--Z1ant6U {
+    background-color: rgb(24, 24, 24);
+    border: black;
+    border-top: 3px rgb(211, 137, 0) solid;
+}
+
+div.navbar--Z2hKYyK {
+    background-color: #2a2a2a;
+    height: 30px;
+    height: 300%;
+}
+
+span.button--Z2dosza.md--Q7ug4.primary--1IbqAO.circle--Z2c8umk {
+    background-color: #F32E2E;
+    border: solid rgb(202, 202, 202);
+}
+
+span.button--Z2dosza.lg--Q7ufB.primary--1IbqAO.circle--Z2c8umk {
+    background-color: #a72424;
+    border: solid #4d4d4d;
+    /* background-color: #9b7819; */
+    box-shadow: none;
+}
+
+button.button--Z2dosza.sm--Q7ujg.primary--1IbqAO.button--yKJ5d {
+    background-color: #e6a631;
+}
+
+div.avatar--Z2lyL8K.moderator--24bqCT.avatar--1EFVoI {
+    background-color: #FF4646;
+    font-family: IRANSans;
+    font-weight: 1000;
+}
+
+div div span {
+    font-family: IRANSans;
+    font-style: normal;
+    line-height: 17px;
+}
+
+p.message--Z2n2nXu {
+    font-family: IRANSans;
+    margin: 0;
+    margin-top: 2px;
+    font-size: 14px;
+    border-style: none;
+}
+
+textarea.input--2wilPX {
+    border-radius: 20px;
+    font-family: IRANSans;
+    border: none;
+    background-color: rgb(238, 235, 235);
+    font-weight: 100;
+    font-style: normal;
+}
+
+div.container--ZmRztk {
+    margin-top: 20px;
+    background-color: #2b2a2a;
+}
+
+p.systemMessage--ZYspJQ {
+    display: none;
+}
+
+h1.presentationTitle--1LT79g {
+    font-family: IranNastaliq;
+    font-size: 23px;
+    height: 55px;
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    width: 200px;
+    font-weight: 700;
+    color: rgb(204, 119, 7);
+}
+
+h2.smallTitle--2wz4kP {
+    display: flex;
+    font-family: BElham;
+    border: solid rgb(187, 187, 187);
+    margin-right: 6px;
+    border-radius: 10px;
+    padding: 2px;
+    color: rgb(255, 59, 59);
+    /* background-color: #ffac317e; */
+    font-size: 12px;
+    justify-content: center;
+}
+
+div span span {
+    font-weight: 800;
+    color: rgb(41, 41, 41);
+}
+
+button.button--Z2dosza.md--Q7ug4.primary--1IbqAO.btn--dDLST {
+    color: red;
+}
+
+div.avatar--Z2lyL8K.moderator--24bqCT.presenter--Z1INqI5.noVoice--1sLVsL {
+    background-color: #FF4646;
+    font-family: IRANSans;
+    font-weight: 1000;
+}
+
+div time span {
+    display: none;
+}
+
+p a u {
+    font-family: IRANSans;
+    margin: 0;
+    font-size: 16px;
+    color: #FF4242
+}
+
+div.avatar--Z2lyL8K.moderator--24bqCT.presenter--Z1INqI5.voice--2oPUk4 {
+    background-color: #FF5C5C;
+}
+
+div.avatar--Z2lyL8K.listenOnly--1qW98O.voice--2oPUk4 {
+    background-color: #FF5F5F;
+}
+
+div.avatar--Z2lyL8K.avatar--1EFVoI {
+    background-color: #F74343;
+    font-family: IRANSans;
+}
+
+button.button--Z2dosza.sm--Q7ujg.primary--1IbqAO.talker--2eNUIW.mobileHide--2ok2AW {
+    height: 24px;
+    border: black solid 2px;
+    background-color: #a72424
+}
+
+i.icon--2q1XXw.icon-bbb-unmute {
+    color: #e6a631;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+button.button--Z2dosza.sm--Q7ujg.primary--1IbqAO.unreadButton--1Ar2w8 {
+    background-color: #F05353
+}
+
+i.icon--2q1XXw.icon-bbb-blank {
+    background-color: #F05353;
+}
+
+div.avatar--Z2lyL8K.muted--2og8uq.voice--2oPUk4 {
+    background-color: #FC4D3C;
+}
+
+#screenshareVideo {
+    margin: 520px;
+    height: 90%
+}
+
+span.singleTyper--Z1xQu0T {
+    /* display: none; */
+}
+
+div.avatar--Z2lyL8K.voice--2oPUk4 {
+    font-family: IRANSans;
+    font-size: 13px;
+    color: #FF4242
+}
+
+div.info--1S2URv.spacer--2t7k4N {
+    /* display: none; */
+    height: 10px;
+}
+
+div.wrapper--ZhSWmd {
+    transform: scale(1.05);
+    margin: 5px;
+    padding: 10px;
+    border-radius: 40px;
+    background-color: rgb(100, 100, 100);
+}
+
+i.icon--2q1XXw.icon-bbb-listen {
+    color: #e6a631
+}
+
+i.icon--2q1XXw.icon-bbb-video_off {
+    color: #e6a631
+}
+
+span.button--Z2dosza.lg--Q7ufB.default--Z19H5du.ghost--Z136aiN.circle--Z2c8umk {
+    color: #AA9E89;
+    box-shadow: none;
+    border-style: none;
+}
+
+i.icon--2q1XXw.icon-bbb-audio_off {
+    color: #e6a631
+}
+
+i.icon--2q1XXw.icon-bbb-audio_on {
+    border: none;
+    color: #e6a631
+}
+
+i.icon--2q1XXw.icon-bbb-mute {
+    color: #e6a631;
+}
+
+button.button--Z2dosza.md--Q7ug4.primary--1IbqAO {
+    background-color: #FF4C4C;
+}
+
+span.label--Z12LMR3 {
+    border: none;
+    font-size: 13px;
+    padding: 0px;
+    height: 200%;
+    color: rgb(190, 190, 190);
+}
+
+div.bottom--2oxmox {
+    display: flex;
+    justify-content: center;
+    height: 500px;
+}
+
+div.avatar--Z2lyL8K.noVoice--1sLVsL {
+    background-color: #F14343;
+    font-family: IRANSans;
+}
+
+video.media--qsqlj {
+    border: solid none;
+    border-radius: 40px;
+}
+
+div.avatar--Z2lyL8K {
+    background-color: #FF4646;
+    font-family: IRANSans;
+    font-weight: 100;
+}
+
+i.icon--2q1XXw.icon-bbb-send {
+    color: #ffb937;
+    font-weight: 1000;
+}
+
+button.md--Q7ug4.buttonWrapper--x8uow.btn--Z25OApd.btnWithNotificationDot--10puCx {
+    /* display: none; */
+}
+
+div.unreadMessagesText--Z1Kohkl {
+    display: none;
+}
+
+span.offline--ZfDX9N {
+    /* display: none; */
+}
+
+span.userName--ZsKYfV.noMenu--Z1KsfN5 {
+    display: none;
+    justify-content: center;
+}
+
+video.media--qsqlj.cursorGrab--Z2fB4yK {
+    border: none;
+}
+
+div.center--ZyfFaC {
+    transform: scale(1.2);
+}
+
+select.select--ZuxQgB {
+    margin-bottom: 10px;
+}
+
+video.preview--25JmPP {
+    background-color: #D4D4D4;
+    border-radius: 60px;
+}
+
+div.ReactModal__Content.ReactModal__Content--after-open.modal--Z1mfLi.modal--lmEc2 {
+    border: solid white;
+    padding: 20px;
+    border-radius: 70px;
+}
+
+div.ReactModal__Content.ReactModal__Content--after-open.modal--1DxJyC.modal--lmEc2 {
+    border: solid white;
+    background-color: #EDEDED;
+    padding: 20px;
+    border-radius: 70px;
+}
+
+span.button--Z2dosza.jumbo--Z12Rgj4.success--Z6UU8x.circle--Z2c8umk {
+    background-color: #68F564;
+}
+
+span.button--Z2dosza.jumbo--Z12Rgj4.danger--Z2aBq0k.circle--Z2c8umk {
+    background-color: #FF6666;
+}
+
+header.navbar--Z2lHYbG {
+    background: #2b2a2a;
+}
+
+i.icon--2q1XXw.icon-bbb-user {
+    color: #e6a631;
+}
+
+button.button--Z2dosza.sm--Q7ujg.primary--1IbqAO.talker--2eNUIW.spoke--ZpD2nd {
+    height: 25px;
+    border: black solid 2px;
+    background-color: #FF4E4E
+}
+
+button.button--Z2dosza.sm--Q7ujg.primary--1IbqAO.talker--2eNUIW {
+    height: 24px;
+    border: black solid 2px;
+    background-color: #a72424
+}
+
+i.icon--2q1XXw.icon-bbb-video {
+    color: #e6a631
+}
+
+p b i {
+    display: flex;
+    justify-content: center;
+    font-style: normal;
+    font-family: IRANSans;
+    border: solid orangered;
+}
+
+div.messageList--hsNac {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    text-shadow: none;
+    -moz-window-shadow: inherit;
+    padding: 10px;
+}
+
+form.form--1S2xdc {
+    scrollbar-shadow-color: black;
+    box-shadow: none;
+    text-shadow: none;
+    -ms-scrollbar-shadow-color: black;
+    -moz-window-shadow: unset;
+    -ms-scrollbar-darkshadow-color: black;
+}
+
+div.title--11IbvM {
+    scrollbar-shadow-color: black;
+    box-shadow: none;
+    text-shadow: none;
+}
+
+button.lg--Q7ufB.buttonWrapper--x8uow.button--qv0Xy.btn--29prju {
+    border: none;
+}
+
+div.avatarWrapper--1HtY4z {
+    border-style: none;
+}
+
+div.item--ZDfG6l {
+    background-color: #d3d2d2;
+    border-radius: 20px 20px 0px 20px;
+    padding: 10px;
+}
+
+div.userItemContents--C2UQJ {
+    background-color: #b9b9b9;
+    border-radius: 40px;
+}
+
+i.icon-bbb-group_chat {
+    color: #FB5F5F;
+}
+
+div.chatListItem--Z2sTdzU.active--Z1SuO2X {
+    background-color: #D9D9D9;
+    border-radius: 0px 20px 20px 0px;
+    padding: 12px;
+}
+
+span.chatNameMain--Z1S9hh4 {
+    font-weight: 1000;
+    font-size: 15px;
+    color: rgb(105, 105, 105);
+}
+
+div.listItem--Siv4F {
+    background-color: #D9D9D9;
+    border-radius: 0px 20px 20px 0px;
+    padding: 12px;
+}
+
+div.noteTitle--DWw20 {
+    font-weight: 1000;
+    font-size: 12px;
+    font-family: IRANSans;
+    color: rgb(83, 83, 83);
+    word-wrap: normal;
+}
+
+i.icon-bbb-lock {
+    display: none;
+}
+
+i.icon-bbb-copy {
+    color: #FB5F5F;
+}
+
+button.button--Z2dosza.md--Q7ug4.default--Z19H5du.hideBtn--ZOkOfz {
+    padding: 10px;
+    background-color: rgb(241, 241, 241);
+}
+
+div.isTalkingWrapper--ZuCcDk {
+    height: 200px;
+}
+
+div.speaking--Z2tUpzD {
+    height: 50px;
+}
+
+i.icon--2q1XXw.icon-bbb-presentation {
+    color: #e6a631
+}
+
+i.muted--quAxq.icon-bbb-unmute_filled {
+    background-color: #a72424;
+    /* border: solid #b1b1b1; */
+    transform: scale(1.5);
+    color: #e6a631;
+}
+
+span.button--Z2dosza.md--Q7ug4.default--Z19H5du.ghost--Z136aiN.circle--Z2c8umk {
+    transform: scale(1.3);
+}
+
+div.chatListItem--Z2sTdzU {
+    background-color: #D9D9D9;
+    border-radius: 0px 20px 20px 0px;
+    padding: 12px;
+}
+
+i.icon--2q1XXw.icon-bbb-more {
+    color: #e6a631
+}
+
+
+/* section.media--Z1xJW08 {
+  background-color: #2a2a2a;
+  margin-top: 10px;
+} */
