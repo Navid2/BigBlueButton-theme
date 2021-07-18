@@ -1,6 +1,6 @@
 ﻿# BigBlueButton-theme
 
-If you are tired seating behind the desk and attending your bigbluebutton virtual class, then we're on the same page😉.
+If you are tired seating behind the desk, attending your bigbluebutton virtual class, then we're on the same page😉.
 
 here is a great theme to bbb to make your life as a remote teacher/student lot easier.
 
