@@ -11,3 +11,6 @@ here is the blue theme for you.
 ![Bluey theme](/images/no-theme.png "Bluey theme")
 
 and uh 😒, this is how your bigbluebutton looks like.
+
+
+and of course an eye-tiring red theme which i thought was cool.(do not use that for so long)
