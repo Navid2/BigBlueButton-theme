@@ -13,4 +13,4 @@ here is the blue theme for you.
 and uh 😒, this is how your bigbluebutton looks like.
 
 
-and of course an eye-tiring red theme which i thought was cool.(do not use that for so long)
+and of course an eye-tiring red theme which i thought was cool and decided not to remove it.(do not use that for so long)
